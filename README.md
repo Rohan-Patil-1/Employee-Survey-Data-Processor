@@ -1,4 +1,4 @@
-# Employee-Survey-Data-Processor
+# Employee Survey Data Processor
 
 ## Overview
 This repository contains a Python-based solution for processing and analyzing employee survey data stored in a MySQL database. The project connects to a MySQL database, retrieves data from multiple tables, performs data aggregation, and inserts processed results into a target table. It also includes performance benchmarking for different sample sizes to evaluate scalability.
